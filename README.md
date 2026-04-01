@@ -9,7 +9,7 @@
 ---
 
 🎓 **Education**
-- **B.Sc. Computer Science**, Hebrew University of Jerusalem (2023-2027)
+- **B.Sc. Computer Science**, Hebrew University of Jerusalem (2023-2026)
 
 ---
 
