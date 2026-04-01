@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ariel Rosenberg!
 
 🎯 **About Me**
-- 🌱 Computer Science student at Hebrew University (Expected 2027)
-- 💻 Passionate about data analysis, machine learning, and building practical solutions
+- 🌱 Computer Science student at Hebrew University (Expected 2026)
+- 💻 Passionate about data analysis, backend engineering, and building practical solutions
 - 🚀 Quick learner with dedication to solving complex problems
 - 📫 Reach me at: ariell20000@hotmail.com
 
