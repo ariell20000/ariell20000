@@ -19,7 +19,12 @@
 ---
 
 ✨ **Featured Projects**
-1. **[NBA Data Analysis](https://github.com/ariell20000/IML_nba_draft)**: Machine learning project building predictive models for player outcomes  
+1. **[Slack Kudos Bot](https://github.com/ariell20000/slack_kudos_bot)**: FastAPI Slack bot with JWT authentication, role-based
+access control, and CI/CD pipeline
+    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+2. **[NBA Data Analysis](https://github.com/ariell20000/IML_nba_draft)**: Machine learning project building predictive models for player outcomes  
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat)
 
 ---
