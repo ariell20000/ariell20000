@@ -1,33 +1,46 @@
 # 👋 Hi, I'm Ariel Rosenberg!
 
 🎯 **About Me**
-- 🌱 Computer Science student at Hebrew University (Expected 2026)
-- 💻 Passionate about data analysis, backend engineering, and building practical solutions
-- 🚀 Quick learner with dedication to solving complex problems
-- 📫 Reach me at: ariell20000@hotmail.com
+
+* 🎓 B.Sc. Computer Science graduate from the Hebrew University of Jerusalem
+* 💻 Interested in backend engineering, systems, and building practical software solutions
+* 🚀 Passionate about learning new technologies and solving complex problems
+* 📫 Reach me at: [ariell20000@hotmail.com](mailto:ariell20000@hotmail.com)
 
 ---
 
-🎓 **Education**
-- **B.Sc. Computer Science**, Hebrew University of Jerusalem (2023-2026)
+## 🎓 Education
+
+* **B.Sc. in Computer Science**, Hebrew University of Jerusalem
 
 ---
 
-🛠 **Technologies**
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🛠 Technologies
+
+* **Languages:** Python, Java, C++, SQL, C
+* **Interests:** Backend Development, Software Engineering, Systems
 
 ---
 
-✨ **Featured Projects**
-1. **[Slack Kudos Bot](https://github.com/ariell20000/slack_kudos_bot)**: FastAPI Slack bot with JWT authentication, role-based
-access control, and CI/CD pipeline
-    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-2. **[NBA Data Analysis](https://github.com/ariell20000/IML_nba_draft)**: Machine learning project building predictive models for player outcomes  
-   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat)
+## ✨ Featured Projects
+
+### [Slack Kudos Bot](https://github.com/ariell20000/slack-kudos-bot)
+
+A backend application that allows users to send and manage appreciation messages through Slack. Built with FastAPI, JWT authentication, role-based access control, Docker, and CI/CD.
+
+### [MemeLens](https://github.com/ariell20000/MemeLens)
+
+An AI-powered application that receives free-form text and identifies a suitable meme template based on its meaning and context. The project is currently in the final stages of development, with a working version and ongoing final improvements.
+
+### [Tailored Resume Builder](https://github.com/ariell20000/tailored-resume-extension)
+
+A Chrome extension that helps job seekers present their existing experience and skills clearly and professionally for specific job opportunities. It uses AI to organize resume content around job requirements, with additional tools for application assistance and referral tracking. Currently in the final stages of development.
+
 
 ---
 
-🚀 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-rosenberg-profile) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ariell20000@hotmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ariell20000)
+## 🚀 Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/)
+* [GitHub](https://github.com/ariell20000)
+* Email: [ariell20000@hotmail.com](mailto:ariell20000@hotmail.com)
